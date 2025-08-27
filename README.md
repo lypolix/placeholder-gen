@@ -1,6 +1,6 @@
 # PlaceholderGen
 
-PlaceholderGen — это HTTP-сервер на Go, который генерирует placeholder-изображения по параметрам, переданным в URL. Также сервер отдаёт favicon и обрабатывает базовые служебные запросы (ping, robots.txt).
+PlaceholderGen — это HTTP-сервер на Go, который генерирует placeholder-изображения по параметрам, переданным в URL. Также сервер отдаёт favicon.
 
 ---
 
@@ -104,3 +104,4 @@ http://localhost:8080/300/300
 ```
 http://localhost:8080/favicon.ico
 ```
+
